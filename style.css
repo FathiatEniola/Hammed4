@@ -1,0 +1,165 @@
+.Container-1{
+   width: 700px;
+   height: 388px;
+   background-image: url(images/desktop/image-header.jpg);
+   background-size: 700px, 900px;
+   margin-top: 10px;
+}
+.header{
+    display: flex;
+    justify-content: space-around;  
+    color: white;
+    padding-top: 20px;
+    align-items: baseline;
+}
+
+.first{
+    flex-grow: 0.7;
+}
+.centered{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    margin-left: 10px;
+}
+button{
+    width: 70px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    background-color: white;
+    font-size: 8px;
+}
+h1{
+    padding-top: 1px;
+}
+.box-2{
+    margin-top: 157px;   
+    margin-bottom: 0px;
+}
+.Thesecond{
+    display: flex;
+    padding-top: 2px;
+}
+.baby-1{
+    height: 350px;
+    width: 350px;
+    padding-top: 20px;
+    margin: 50px;
+}
+.Thethird{
+    display: flex;
+}
+baby-3{
+    height: 350px;
+    width: 350px;
+    padding-top: 20px;
+}
+.MainContainer{
+    display: flex;
+    flex-direction: column; 
+    height: 2534px;
+}
+.Container-2{
+    width: 700px;
+   height: 700px;
+   margin-top: 30px;
+}
+.Container-3{
+    width: 700px;
+   height: 388px;
+   margin-bottom: 10px;
+}
+.baby-4{
+    height: 350px;
+    width: 350px;
+    margin: 50px;
+}
+.Thefourth{
+    display: flex;
+    height: 350px;
+    width: 700px;
+}
+.baby-5{
+    background-image: url(images/desktop/image-graphic-design.jpg);
+    background-size: 420px, 350px;
+    height: 150px;
+    width: 350px;
+    padding-top: 200px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+}
+.baby-6{
+    background-image: url(images/desktop/image-photography.jpg);
+    background-size: 420px, 350px;
+    height: 150px;
+    width: 350px;
+    padding-top: 200px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+}
+.Container-4{
+    width: 700px;
+    height: 388px;
+    margin-top: 0px;
+}
+.box-6{
+    display: flex;
+    justify-content: space-around;
+    height: 250px;
+}
+.head{
+    height: 60px;
+    width: 60px;
+    padding: 50px;
+    border-radius: 50%;
+}
+.Container-5{
+    padding: 50px;
+    text-align: center;
+    width: 620px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+    height: 400px;
+}
+h5{
+    width: 233px;
+    height: 70px;
+}
+.Container-6{
+    display: flex;
+    width: 700px;
+    height: 200px;
+}
+.bot-1{
+    width: 175px;
+    height: 200px;
+}
+.icons{
+    display: flex;
+    justify-content: space-around;
+    width: 150px;
+    padding-left: 200px;
+    
+}
+.footerhen{
+    display: flex;
+    justify-content: space-around; 
+    text-align: center;
+    width: 250px;
+    padding-top: 25px;
+    padding-left: 140px;
+    padding-bottom: 80px;
+}
+.Container-7{
+    width: 525px;
+    height: 70px;
+    margin-top: 100px;
+    background-color: aquamarine;
+    padding: 100px;
+}
+.footer{
+    text-align: center;
+}
