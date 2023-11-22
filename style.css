@@ -1,9 +1,16 @@
 .Container-1{
-   width: 700px;
-   height: 388px;
+   width: 100vw;
+   height: 100vh;
    background-image: url(images/desktop/image-header.jpg);
-   background-size: 700px, 900px;
-   margin-top: 10px;
+   background-size: cover;
+   background-position: center;
+}
+img.arrow{
+    height: 150px; 
+    padding-top: 5px;
+}
+h1.creatives{
+    font-size: 3rem;
 }
 .header{
     display: flex;
@@ -34,46 +41,69 @@ h1{
     padding-top: 1px;
 }
 .box-2{
-    margin-top: 157px;   
-    margin-bottom: 0px;
+    /* margin-top: 157px; */
+    /* margin-bottom: 0px; */
 }
 .Thesecond{
     display: flex;
-    padding-top: 2px;
+    width: 100%;
+    border: 1px red solid;
+    /* padding-top: 2px; */
 }
-.baby-1{
-    height: 350px;
-    width: 350px;
-    padding-top: 20px;
-    margin: 50px;
+.baby-1, .baby-2{
+    /* height: 80vh; */
+    width: 50%;
+    border: 1px yellowgreen solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding-top: 20px; */
+    /* margin: 50px; */
 }
+img.egg{
+    height: 80vh;
+    width: 100%;
+}
+
 .Thethird{
     display: flex;
+    width: 100%;
+    border: 1px red solid;
 }
 baby-3{
-    height: 350px;
-    width: 350px;
-    padding-top: 20px;
+    /* height: 350px; */
+    /* width: 350px; */
+    /* padding-top: 20px; */
+    
 }
 .MainContainer{
     display: flex;
     flex-direction: column; 
-    height: 2534px;
+    /* height: 2534px; */
 }
 .Container-2{
-    width: 700px;
-   height: 700px;
-   margin-top: 30px;
+   /* width: 700px; */
+   /* height: 700px; */
+   /* margin-top: 30px; */
 }
 .Container-3{
-    width: 700px;
-   height: 388px;
-   margin-bottom: 10px;
+    /* width: 700px; */
+   /* height: 388px; */
+   /* margin-bottom: 10px; */
 }
-.baby-4{
-    height: 350px;
-    width: 350px;
-    margin: 50px;
+.baby-3, .baby-4{
+    /* height: 350px; */
+    /* width: 350px; */
+    /* margin: 50px; */
+    width: 50%;
+    border: 1px yellowgreen solid;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+img.cup{
+    height: 80vh;
+    width: 100%;
 }
 .Thefourth{
     display: flex;
